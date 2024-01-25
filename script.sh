@@ -1,3 +1,4 @@
+#!bin/bash
 sudo useradd -m steam
 sudo passwd steam
 sudo usermod -G sudo steam
